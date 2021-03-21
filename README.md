@@ -5,6 +5,7 @@ This Kvantum theme is modified on top of [materia-kde](https://github.com/Papiru
 ## Installation
 
 First you need to have Kvantum installed, then
+
 ```sh
 git clone https://github.com/tonyfettes/materia-nord-kvantum.git
 cd materia-nord-kvantum
