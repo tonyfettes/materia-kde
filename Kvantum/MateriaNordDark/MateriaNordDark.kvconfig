@@ -1,10 +1,6 @@
 [%General]
 author=Alexey Varfolomeev, based on KvAdaptaDark by Tsu Jan
-<<<<<<< HEAD:Kvantum/MateriaNordDark/MateriaNordDark.kvconfig
-comment=The Nord dark varianl of Materia
-=======
-comment=A dark variant of the Materia GTK theme
->>>>>>> upstream/master:Kvantum/MateriaDark/MateriaDark.kvconfig
+comment=A Nord dark variant of Materia GTK theme
 alt_mnemonic=true
 animate_states=true
 attach_active_tab=false
@@ -77,7 +73,6 @@ saturation=1.00
 shadowless_popup=false
 
 [GeneralColors]
-<<<<<<< HEAD:Kvantum/MateriaNordDark/MateriaNordDark.kvconfig
 alt.base.color=#353b49
 base.color=#353b49
 button.color=#3B4252
@@ -97,27 +92,6 @@ text.color=#d8dee9
 tooltip.text.color=#eceff4
 window.color=#2e3440
 window.text.color=#d8dee9
-=======
-alt.base.color=#1e1e1e
-base.color=#1e1e1e
-button.color=#2e2e2e
-button.text.color=#dfdfdf
-dark.color=#0d0d0d
-disabled.text.color=#818181
-highlight.color=#8ab4f83c
-highlight.text.color=white
-inactive.highlight.color=#8ab4f83c
-light.color=#484848
-link.color=#8ab4f8
-link.visited.color=#ce93d8
-mid.color=#2e2e2e
-mid.light.color=#ffffff1e
-progress.indicator.text.color=#dfdfdf
-text.color=#dfdfdf
-tooltip.text.color=white
-window.color=#121212
-window.text.color=#dfdfdf
->>>>>>> upstream/master:Kvantum/MateriaDark/MateriaDark.kvconfig
 
 [Hacks]
 blur_translucent=false
@@ -319,15 +293,9 @@ frame.top=2
 frame.bottom=2
 frame.left=2
 frame.right=2
-<<<<<<< HEAD:Kvantum/MateriaNordDark/MateriaNordDark.kvconfig
 text.normal.color=#d8dee9
 text.focus.color=#d8dee9
-text.toggle.color=#d8dee9
-=======
-text.normal.color=#dfdfdf
-text.focus.color=#dfdfdf
-text.toggle.color=#8ab4f8
->>>>>>> upstream/master:Kvantum/MateriaDark/MateriaDark.kvconfig
+text.toggle.color=#88c0d0
 frame.expansion=0
 text.bold=false
 focusFrame=true
